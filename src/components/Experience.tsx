@@ -43,7 +43,7 @@ export const Experience: React.FC = () => {
       type: "work",
       icon: <Briefcase size={20} />,
       title: t("juniorDev"),
-      organization: "Aimektep",
+      organization: "Aisoft",
       date: `2025 - ${t("present")}`,
       description: t("juniorDevDesc"),
     },
